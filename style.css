@@ -214,3 +214,26 @@ input[name="r"]{
 	background: none;
 	margin-right: 5px;
 }
+@media screen and (max-width: 1024px) {
+	#up {
+		font-size: 60px;
+	}
+	.dws-menu > ul li{
+		width: 100%;
+	}
+	.dws-menu > ul li a{
+		font-size: 28px;
+	}
+	.dws-menu li > ul li ul{
+		right: -358px;
+	}
+	.zag{
+		font-size: 40px;
+	}
+	.classic{
+		font-size: 28px;
+	}
+	.header1{
+		height: 3760px;
+	}
+}
