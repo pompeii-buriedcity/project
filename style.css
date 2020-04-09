@@ -216,24 +216,28 @@ input[name="r"]{
 }
 @media screen and (max-width: 1024px) {
 	#up {
-		font-size: 60px;
+		font-size: 70px;
 	}
 	.dws-menu > ul li{
 		width: 100%;
 	}
 	.dws-menu > ul li a{
-		font-size: 28px;
+		font-size: 35px;
 	}
 	.dws-menu li > ul li ul{
-		right: -358px;
+		right: -442px;
 	}
 	.zag{
-		font-size: 40px;
+		font-size: 50px;
 	}
 	.classic{
-		font-size: 28px;
+		font-size: 38px;
 	}
 	.header1{
-		height: 3760px;
+		height: 5420px;
+	}
+	.image{
+		width: 800px;
+		margin-left: 150px;
 	}
 }
