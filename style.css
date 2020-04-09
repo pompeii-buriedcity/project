@@ -236,6 +236,9 @@ input[name="r"]{
 	.header1{
 		height: 5420px;
 	}
+	.fa{
+		float: left;
+	}
 	.image{
 		width: 800px;
 		margin-left: 150px;
