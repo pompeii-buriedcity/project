@@ -279,8 +279,8 @@ input[name="r"]{
 		height: 100%;
 	}
 	.fa{
+		position: absolute;
 		visibility: hidden;
-		margin-right: -17px;
 	}
 	.image{
 		width: 100%;
